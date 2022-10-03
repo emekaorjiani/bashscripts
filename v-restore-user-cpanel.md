@@ -3,7 +3,7 @@
 1. Clone this repo $bash: `git clone https://github.com/emekaorjiani/bashscripts` and `cd bashscripts`
 2. Make executable $bash: `chmod u+x v-restore-user-cpanel`
 3. Move to /usr/local/hestia/bin/ $bash:`mv v-restore-user-cpanel /usr/local/hestia/bin/`
-4. Restore the backup by running $bash: `v-restore-user-cpanel username <backupfilename>`
+4. Restore the backup by running $bash: `v-restore-user-cpanel <backupfilename>`
 
 
 This also worked better
